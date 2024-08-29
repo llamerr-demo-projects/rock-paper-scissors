@@ -1,5 +1,6 @@
 {
   "RootLayout": {
+    "game_link": "Game",
     "home_link": "Home",
     "about_link": "About",
     "guestbook_link": "Guestbook",
@@ -33,6 +34,28 @@
     "meta_description": "About page description",
     "about_paragraph": "Welcome to our About page! We are a team of passionate individuals dedicated to creating amazing software.",
     "translation_powered_by": "Translation powered by"
+  },
+  "Game": {
+    "meta_title": "Rock-Paper-Scissors(-Lizard-Spock) Game",
+    "meta_description": "Play a world famous game of Rock-Paper-Scissors(-Lizard-Spock) with a computer!",
+    "logo": "Logo",
+    "rules": "Rules",
+    "change_game_type": "Change game type",
+    "triangle": "Triangle",
+    "pentagon": "Pentagon",
+    "score": "Score",
+    "paper": "Paper",
+    "rock": "Rock",
+    "scissors": "Scissors",
+    "lizard": "Lizard",
+    "spock": "Spock",
+    "you_picked": "You picked",
+    "the_house_picked": "The house picked",
+    "computer_move": "Computer move",
+    "you_win": "You win",
+    "you_lose": "You lose",
+    "draw": "Draw",
+    "play_again": "Play again"
   },
   "Portfolio": {
     "meta_title": "Portfolio",

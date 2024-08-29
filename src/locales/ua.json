@@ -1,0 +1,88 @@
+{
+  "RootLayout": {
+    "game_link": "Гра",
+    "home_link": "Головна",
+    "about_link": "Про нас",
+    "guestbook_link": "Гостьова книга",
+    "portfolio_link": "Портфоліо",
+    "sign_in_link": "Увійти",
+    "sign_up_link": "Зареєструватися"
+  },
+  "BaseTemplate": {
+    "description": "Початковий код для вашого шаблону Next.js з Tailwind CSS",
+    "made_with": "Зроблено з"
+  },
+  "GameTemplate": {
+    "description": "Початковий код для вашого шаблону Next.js з Tailwind CSS",
+    "made_with": "Зроблено з"
+  },
+  "Index": {
+    "meta_title": "Презентація шаблону Next.js",
+    "meta_description": "Next.js Boilerplate - ідеальний початковий код для вашого проекту. Створюйте свої додатки на React з використанням фреймворку Next.js."
+  },
+  "Guestbook": {
+    "meta_title": "Гостьова книга",
+    "meta_description": "Приклад операції CRUD",
+    "database_powered_by": "База даних на базі",
+    "loading_guestbook": "Завантаження гостьової книги...",
+    "error_reporting_powered_by": "Звіт про помилки на базі"
+  },
+  "GuestbookForm": {
+    "username": "Ім'я користувача",
+    "body": "Текст",
+    "save": "Зберегти"
+  },
+  "About": {
+    "meta_title": "Про нас",
+    "meta_description": "Опис сторінки про нас",
+    "about_paragraph": "Ласкаво просимо на нашу сторінку 'Про нас'! Ми - команда захоплених людей, які прагнуть створювати дивовижне програмне забезпечення.",
+    "translation_powered_by": "Переклад на базі"
+  },
+  "Game": {
+    "meta_title": "Rock-Paper-Scissors(-Lizard-Spock) Game",
+    "meta_description": "Play a world famous game of Rock-Paper-Scissors(-Lizard-Spock) with a computer!",
+    "score": "Score",
+    "paper": "Paper",
+    "rock": "Rock",
+    "scissors": "Scissors",
+    "lizard": "Lizard",
+    "spock": "Spock",
+    "you_picked": "You picked",
+    "the_house_picked": "The house picked"
+  },
+  "Portfolio": {
+    "meta_title": "Портфоліо",
+    "meta_description": "Ласкаво просимо на сторінку мого портфоліо!",
+    "presentation": "Ласкаво просимо на сторінку мого портфоліо! Тут ви знайдете ретельно підібрану колекцію моїх робіт і досягнень. Через це портфоліо я прагну показати свою експертизу, креативність та цінність, яку я можу принести у ваші проекти.",
+    "portfolio_name": "Портфоліо {name}",
+    "error_reporting_powered_by": "Звіт про помилки на базі",
+    "coverage_powered_by": "Покриття коду на базі"
+  },
+  "PortfolioSlug": {
+    "meta_title": "Портфоліо {slug}",
+    "meta_description": "Опис портфоліо {slug}",
+    "header": "Портфоліо {slug}",
+    "content": "Створено набір рекламних матеріалів та елементів брендингу для корпоративного заходу. Розроблено візуально єдину тему, що включає логотип, плакати, банери та цифрові активи. Інтегровано ідентичність бренду клієнта, додавши сучасний і інноваційний підхід. Отримано позитивні відгуки від учасників заходу, що призвело до успішного проведення заходу з підвищеною залученістю учасників та збільшеною видимістю бренду.",
+    "log_management_powered_by": "Управління журналами на базі"
+  },
+  "SignIn": {
+    "meta_title": "Увійти",
+    "meta_description": "Легко увійдіть у свій акаунт за допомогою нашого зручного процесу входу."
+  },
+  "SignUp": {
+    "meta_title": "Зареєструватися",
+    "meta_description": "Легко створіть акаунт за допомогою нашого інтуїтивно зрозумілого процесу реєстрації."
+  },
+  "Dashboard": {
+    "meta_title": "Панель управління",
+    "hello_message": "Вітаю, {email}!"
+  },
+  "UserProfile": {
+    "meta_title": "Профіль користувача"
+  },
+  "DashboardLayout": {
+    "dashboard_link": "Панель управління",
+    "user_profile_link": "Керування акаунтом",
+    "sign_out": "Вийти"
+  }
+}

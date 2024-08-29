@@ -1,0 +1,88 @@
+{
+  "RootLayout": {
+    "game_link": "Игра",
+    "home_link": "Главная",
+    "about_link": "О нас",
+    "guestbook_link": "Гостевая книга",
+    "portfolio_link": "Портфолио",
+    "sign_in_link": "Войти",
+    "sign_up_link": "Регистрация"
+  },
+  "BaseTemplate": {
+    "description": "Начальный код для вашего шаблона Next.js с Tailwind CSS",
+    "made_with": "Сделано с"
+  },
+  "GameTemplate": {
+    "description": "Начальный код для вашего шаблона Next.js с Tailwind CSS",
+    "made_with": "Сделано с"
+  },
+  "Index": {
+    "meta_title": "Презентация шаблона Next.js",
+    "meta_description": "Next.js Boilerplate - идеальный начальный код для вашего проекта. Создавайте свои приложения на React с использованием фреймворка Next.js."
+  },
+  "Guestbook": {
+    "meta_title": "Гостевая книга",
+    "meta_description": "Пример операции CRUD",
+    "database_powered_by": "База данных на базе",
+    "loading_guestbook": "Загрузка гостевой книги...",
+    "error_reporting_powered_by": "Отчет об ошибках на базе"
+  },
+  "GuestbookForm": {
+    "username": "Имя пользователя",
+    "body": "Текст",
+    "save": "Сохранить"
+  },
+  "About": {
+    "meta_title": "О нас",
+    "meta_description": "Описание страницы о нас",
+    "about_paragraph": "Добро пожаловать на нашу страницу 'О нас'! Мы - команда увлеченных людей, стремящихся создавать потрясающее программное обеспечение.",
+    "translation_powered_by": "Перевод на базе"
+  },
+  "Game": {
+    "meta_title": "Rock-Paper-Scissors(-Lizard-Spock) Game",
+    "meta_description": "Play a world famous game of Rock-Paper-Scissors(-Lizard-Spock) with a computer!",
+    "score": "Score",
+    "paper": "Paper",
+    "rock": "Rock",
+    "scissors": "Scissors",
+    "lizard": "Lizard",
+    "spock": "Spock",
+    "you_picked": "You picked",
+    "the_house_picked": "The house picked"
+  },
+  "Portfolio": {
+    "meta_title": "Портфолио",
+    "meta_description": "Добро пожаловать на страницу моего портфолио!",
+    "presentation": "Добро пожаловать на страницу моего портфолио! Здесь вы найдете тщательно подобранную коллекцию моих работ и достижений. Через это портфолио я стремлюсь показать свою экспертизу, креативность и ценность, которую я могу привнести в ваши проекты.",
+    "portfolio_name": "Портфолио {name}",
+    "error_reporting_powered_by": "Отчет об ошибках на базе",
+    "coverage_powered_by": "Покрытие кода на базе"
+  },
+  "PortfolioSlug": {
+    "meta_title": "Портфолио {slug}",
+    "meta_description": "Описание портфолио {slug}",
+    "header": "Портфолио {slug}",
+    "content": "Создан набор рекламных материалов и элементов брендинга для корпоративного мероприятия. Разработана визуально единая тема, включающая логотип, плакаты, баннеры и цифровые активы. Интегрирована идентичность бренда клиента, добавив современный и инновационный подход. Получены положительные отзывы от участников мероприятия, что привело к успешному проведению мероприятия с повышенной вовлеченностью участников и увеличенной видимостью бренда.",
+    "log_management_powered_by": "Управление журналами на базе"
+  },
+  "SignIn": {
+    "meta_title": "Войти",
+    "meta_description": "Без труда войдите в свой аккаунт с помощью нашего удобного процесса входа."
+  },
+  "SignUp": {
+    "meta_title": "Регистрация",
+    "meta_description": "Легко создайте аккаунт с помощью нашего интуитивно понятного процесса регистрации."
+  },
+  "Dashboard": {
+    "meta_title": "Панель управления",
+    "hello_message": "Здравствуйте, {email}!"
+  },
+  "UserProfile": {
+    "meta_title": "Профиль пользователя"
+  },
+  "DashboardLayout": {
+    "dashboard_link": "Панель управления",
+    "user_profile_link": "Управление аккаунтом",
+    "sign_out": "Выйти"
+  }
+}

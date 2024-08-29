@@ -1,5 +1,6 @@
 {
   "RootLayout": {
+    "game_link": "Jeu",
     "home_link": "Accueil",
     "about_link": "A propos",
     "guestbook_link": "Livre d'or",
@@ -33,6 +34,18 @@
     "meta_description": "A propos description",
     "about_paragraph": "Bienvenue sur notre page À propos ! Nous sommes une équipe de passionnés et dévoués à la création de logiciels.",
     "translation_powered_by": "Traduction propulsée par"
+  },
+  "Game": {
+    "meta_title": "Rock-Paper-Scissors(-Lizard-Spock) Game",
+    "meta_description": "Play a world famous game of Rock-Paper-Scissors(-Lizard-Spock) with a computer!",
+    "score": "Score",
+    "paper": "Paper",
+    "rock": "Rock",
+    "scissors": "Scissors",
+    "lizard": "Lizard",
+    "spock": "Spock",
+    "you_picked": "You picked",
+    "the_house_picked": "The house picked"
   },
   "Portfolio": {
     "meta_title": "Portfolio",

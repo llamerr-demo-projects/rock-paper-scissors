@@ -7,6 +7,7 @@ const config: StorybookConfig = {
     '@storybook/addon-links',
     '@storybook/addon-essentials',
     '@storybook/addon-interactions',
+    '@chromatic-com/storybook',
   ],
   framework: {
     name: '@storybook/nextjs',
@@ -15,6 +16,10 @@ const config: StorybookConfig = {
   staticDirs: ['../public'],
   core: {
     disableTelemetry: true,
+  },
+  docs: {},
+  typescript: {
+    reactDocgen: 'react-docgen-typescript',
   },
 };
 

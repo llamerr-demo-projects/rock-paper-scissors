@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/llamerr-demo-projects/rock-paper-scissors/compare/v1.0.0...v1.1.0) (2024-08-30)
+
+
+### Features
+
+* add permanent redirect to /game and remove demo badge ([9c6d7e8](https://github.com/llamerr-demo-projects/rock-paper-scissors/commit/9c6d7e84ee6b1e72b500731bdf03b3b273c9a0dd))
+* copy project readme ([e8b6f74](https://github.com/llamerr-demo-projects/rock-paper-scissors/commit/e8b6f74accf7f41bad708f5900def4b8b5e8d0f8))
+
 # 1.0.0 (2024-08-29)
 
 

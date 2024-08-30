@@ -1,3 +1,11 @@
+# 1.0.0 (2024-08-29)
+
+
+### Features
+
+* added task from https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH ([aa95558](https://github.com/llamerr-demo-projects/rock-paper-scissors/commit/aa95558248f4b702b6cd5a875a1c39549ce758cb))
+* implement game ([084cc4b](https://github.com/llamerr-demo-projects/rock-paper-scissors/commit/084cc4bbf3440e17819ab3e8b4069b2a822997e2))
+
 ## [3.55.3](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.55.2...v3.55.3) (2024-08-21)
 
 
